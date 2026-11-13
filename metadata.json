@@ -1,0 +1,6 @@
+{
+  "name": "Prism Pop 3D",
+  "description": "A 3D Colour Bubble Shooter mobile game with 100 progressive levels, daily challenges, elemental power-ups, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
